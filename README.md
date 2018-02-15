@@ -1,10 +1,12 @@
 # Type A Machines Series 1 2013 Wood edition with Full Graphic Smart Controller 
 
 ## Cura settings for the printer
-In cura, add a new printer, use the "Type A Machines Series 1 2014" as a template, then change these settings:
+In the cura menus:
+* Add a new printer, choose "Other" and "Type A Machines Series 1 2014"
+* Then find "Manage printers", select "Type A Machines Series 1 2014" and press "Machine settings"
+* This menu will pop up, change the  highlighted items according to this image:
 ![](img/settings.JPG)
-
-[paste this code into the "start Gcode" box](start_g_code.txt)
+* [Paste this code into the "start Gcode" box](start_g_code.txt)
 
 Now you are ready to print using SD card on the Type A Machines series 1 2013 wood editon! 
 
