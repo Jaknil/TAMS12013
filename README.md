@@ -1,7 +1,7 @@
-# Marlin for TAM S1 2013 (wood) with Full Graphic Smart Controller
+# Type A Machines Series 1 2013 Wood edition with Full Graphic Smart Controller 
 
-## Cura settings
-In cura, add a new printer, use these settings:
+## Cura settings for the printer
+In cura, add a new printer, use the "Type A Machines Series 1 2014" as a template, then change these settings:
 ![](img/settings.JPG)
 
 [paste this code into the "start Gcode" box](start_g_code.txt)
