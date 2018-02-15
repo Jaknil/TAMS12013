@@ -11,7 +11,7 @@
 
 ![](img/manage_printers.jpg)
 * Click "Manage printers", select "Type A Machines Series 1 2014" and press "Machine settings"
-* This menu will pop up, change the  highlighted items according to this image and [Paste this code into the "Start Gcode" box](start_g_code.txt)
+* This menu will pop up, change the  highlighted items according to this image and [paste this code into the "Start Gcode" box](start_g_code.txt)
 
 ![](img/settings.JPG)
 * Now you are ready to print using SD card on the Type A Machines series 1 2013 wood editon! 
