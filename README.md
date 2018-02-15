@@ -1,14 +1,23 @@
 # Type A Machines Series 1 2013 Wood edition with Full Graphic Smart Controller 
 
-## Cura settings for the printer
-In the cura menus:
-* Add a new printer, choose "Other" and "Type A Machines Series 1 2014"
-* Then find "Manage printers", select "Type A Machines Series 1 2014" and press "Machine settings"
-* This menu will pop up, change the  highlighted items according to this image:
-![](img/settings.JPG)
-* [Paste this code into the "start Gcode" box](start_g_code.txt)
+## Adding the printer to Cura
+*  [Download the latest version, install and open Cura](https://ultimaker.com/en/products/ultimaker-cura-software)
+* Click here in the top right corner:
 
-Now you are ready to print using SD card on the Type A Machines series 1 2013 wood editon! 
+![](img/manage_printers.jpg)
+* Click "Add printer"
+* Choose "Other", select the "Type A Machines Series 1 2014" and accept 
+* Click here again
+
+![](img/manage_printers.jpg)
+* Click "Manage printers", select "Type A Machines Series 1 2014" and press "Machine settings"
+* This menu will pop up, change the  highlighted items according to this image and [Paste this code into the "Start Gcode" box](start_g_code.txt)
+
+![](img/settings.JPG)
+* Now you are ready to print using SD card on the Type A Machines series 1 2013 wood editon! 
+* To switch between printers, click here:
+
+![](img/manage_printers.jpg)
 
 # Firmware files (only needed if you upgrade/rebuild the printer)
 In the marlin directory there is a version of the Marlin 1.1 firmware configurated to run on  Type A Machine Series 1 3D printers from 2013 (plywood frame) equipped with a [DiscountRepRap Full Graphics Smart controller with LCD display and SD card reader](http://reprap.org/wiki/RepRapDiscount_Full_Graphic_Smart_Controller).
