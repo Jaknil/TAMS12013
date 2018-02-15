@@ -1,5 +1,14 @@
 # Marlin for TAM S1 2013 (wood) with Full Graphic Smart Controller
 
+## Cura settings
+In cura, add a new printer, use these settings:
+![](img/settings.JPG)
+
+[paste this code into the "start Gcode" box](start_g_code.txt)
+
+Now you are ready to print using SD card on the Type A Machines series 1 2013 wood editon! 
+
+# What is the controller
 Marlin 1.1 firmware configurated to run on a Type A Machine Series 1 3D printer from 2013 (plywood frame) equipped with a [DiscountRepRap Full Graphics Smart controller with LCD display and SD card reader](http://reprap.org/wiki/RepRapDiscount_Full_Graphic_Smart_Controller).
 
 The printer has a RAMPS1.4 card but it is wired a bit different from the standard way so the pins had to be reconfigured to account for things like that the two Y-motors are connected to the connectors marked with Z, among other things.
