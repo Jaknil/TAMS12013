@@ -28,7 +28,8 @@ Load your gcode file onto a SD card and select "Print from SD Card in the menu",
 
 ### Changing Filament
 To Change the filament you need to first heat the filament to its melting temperature, for PLA filament this is 210 C.
-Find the Nozzle temperature settings in the menues, I think they are under "Control".
+Find the Nozzle temperature settings in the menues under Control - Temperature - Nozzle 
+![](img/filament.jpg)
 
 # Firmware files (only needed if you upgrade/rebuild the printer)
 In the marlin directory there is a version of the Marlin 1.1 firmware configurated to run on  Type A Machine Series 1 3D printers from 2013 (plywood frame) equipped with a [DiscountRepRap Full Graphics Smart controller with LCD display and SD card reader](http://reprap.org/wiki/RepRapDiscount_Full_Graphic_Smart_Controller).
