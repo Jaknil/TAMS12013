@@ -1,5 +1,8 @@
 # Type A Machines Series 1 2013 Wood edition with Full Graphic Smart Controller 
 
+![](img/controller.JPG)
+Cover design by [Area51](https://www.thingiverse.com/make:455623)
+
 ## Adding the printer to Cura
 *  [Download the latest version, install and open Cura](https://ultimaker.com/en/products/ultimaker-cura-software)
 * Click here in the top right corner:
